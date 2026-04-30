@@ -1,0 +1,9 @@
+projek 
+
+- javascript lanjutan
+- tailwind css
+- php oop dan php mvc
+- react js
+- laravel
+- node.js
+- vue.js
