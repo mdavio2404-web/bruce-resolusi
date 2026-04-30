@@ -8,7 +8,3 @@ projek
 - node.js
 - vue.js
 
-penambahan pembelajaran
-- analisis sistem informasi
-- alur proses bisnis
-- jaringan
