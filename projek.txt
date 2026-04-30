@@ -8,6 +8,3 @@ projek
 - node.js
 - vue.js
 
-tambahan belajar :
-- design ui
-- design database
